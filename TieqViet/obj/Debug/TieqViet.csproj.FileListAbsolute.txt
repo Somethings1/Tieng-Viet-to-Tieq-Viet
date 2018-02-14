@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\TieqViet\TieqViet\bin\Debug\TieqViet.exe.config
+C:\Users\Admin\source\repos\TieqViet\TieqViet\bin\Debug\TieqViet.exe
+C:\Users\Admin\source\repos\TieqViet\TieqViet\bin\Debug\TieqViet.pdb
+C:\Users\Admin\source\repos\TieqViet\TieqViet\obj\Debug\TieqViet.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\TieqViet\TieqViet\obj\Debug\TieqViet.Properties.Resources.resources
+C:\Users\Admin\source\repos\TieqViet\TieqViet\obj\Debug\TieqViet.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\TieqViet\TieqViet\obj\Debug\TieqViet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TieqViet\TieqViet\obj\Debug\TieqViet.exe
+C:\Users\Admin\source\repos\TieqViet\TieqViet\obj\Debug\TieqViet.pdb
+C:\Users\Admin\source\repos\TieqViet\TieqViet\obj\Debug\TieqViet.Form1.resources
